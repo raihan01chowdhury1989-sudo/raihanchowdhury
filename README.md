@@ -13,4 +13,4 @@ I build **custom WordPress solutions** from the ground up — themes, plugins, a
 ### Tech Stack
 `WordPress` · `PHP` · `React` · `JavaScript` · `HTML5` · `CSS3` · `n8n` · `OpenAI API` · `Illustrator` · `Photoshop`
 
-📫 **Open for freelance projects** — [your.email@example.com](mailto:raihan01chowdhury1989@gmail.com)
+📫 **Open for freelance projects** — [raihan01chowdhury1989@gmail.com](mailto:raihan01chowdhury1989@gmail.com)
